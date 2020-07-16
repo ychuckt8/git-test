@@ -21,6 +21,6 @@
   "homepage": "https://github.com/ychuckt8/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.4.0",
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.19"
   }
 }
